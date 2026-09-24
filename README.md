@@ -1,16 +1,18 @@
-## Hi there 👋
+# Tobias Blad
 
-<!--
-**TobiasBlad/TobiasBlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering student at Nackademin in Stockholm.
 
-Here are some ideas to get you started:
+I’m interested in Data Engineering and consulting, with a focus on building reliable data solutions and working closely with people, customers and business needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tech
+
+Python • SQL • Azure • Databricks • Git  
+Polars • PySpark • FastAPI • Power BI  
+CI/CD • ETL/ELT • Data Modeling
+
+## Currently
+
+🎓 Studying Data Engineering at Nackademin  
+📍 Stockholm, Sweden  
+🔎 Looking for LIA / Internship opportunities from December 2026
 -->
