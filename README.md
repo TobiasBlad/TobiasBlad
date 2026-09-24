@@ -38,4 +38,3 @@ Collaborative Data Engineering project built using a medallion architecture with
 🎓 Studying Data Engineering at Nackademin  
 📍 Stockholm, Sweden  
 🔎 Looking for LIA / Internship opportunities from December 2026
--->
