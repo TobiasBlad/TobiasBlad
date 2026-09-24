@@ -20,6 +20,19 @@ End-to-end data pipeline built on public application data from Myndigheten för 
 
 The project combines historical Excel files from multiple years, cleans and harmonizes the data, stores the curated dataset in Parquet and SQLite, and exposes it through a FastAPI service.
 
+### [DevOps Data Pipeline](https://github.com/NilssonAxel/devops_assignment1_grupp4)
+
+Collaborative Data Engineering project built using a medallion architecture with automated testing and CI.
+
+**Tech:** Python, Polars, Parquet, pytest, Ruff, GitHub Actions
+
+**My contributions:**
+- Developed and refactored the Gold layer using Polars
+- Created unit tests for the Gold layer
+- Added pipeline orchestration testing
+- Worked with CI, Ruff and GitHub Actions
+- Contributed to documentation and pull request workflows
+
 ## Currently
 
 🎓 Studying Data Engineering at Nackademin  
